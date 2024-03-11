@@ -1,3 +1,1 @@
-javascript:(function() {
-  var jsCode = 'alert("Hola Mundo");';
-})();
+alert("Hola Mundo");
